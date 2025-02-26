@@ -1,0 +1,26 @@
+@media only screen and (orientation: landscape) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  
+  #navbar{
+    position: fixed;
+    left:0;
+    padding : 20px;
+  }
+  
+  #navbar header{
+    font-size: 1.618em;
+    margin-bottom: 7;
+  
+  }
+  #navbar a{
+    text-decoration: none;
+    display: block;
+    margin-bottom:12px;
+  }
+  
+  #main-doc{
+    margin-left:200px;
+  }
